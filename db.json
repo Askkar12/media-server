@@ -1,0 +1,92 @@
+{
+  "allvideos": [
+    {
+      "id": "2",
+      "caption": "title",
+      "url": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/06/01/271188-vaazha.jpg?itok=mjB3Ilr7",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+    },
+    {
+      "id": "12",
+      "caption": "title",
+      "url": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/01/136-48-2.jpg",
+      "link": "https://www.youtube.com/embed/xmy02EqjTlA"
+    },
+    {
+      "id": "1",
+      "caption": "title",
+      "url": "https://media.assettype.com/outlookindia/2024-05/107f313a-5e62-4d77-b742-de36d690e7b4/Bipin_Singh_scores_goal__Mumbai_City_win_ISL_2023_24_title__Mumbai_City_FC_Twitter.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0",
+      "link": "https://www.youtube.com/embed/aB18wP9LfsA"
+    }
+  ],
+  "history": [
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/UImrau29cu8",
+      "timestamb": "09/20/2024, 09:45:10 AM",
+      "id": 1
+    },
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timestamb": "09/20/2024, 09:45:19 AM",
+      "id": 2
+    },
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timestamb": "09/20/2024, 09:47:22 AM",
+      "id": 3
+    },
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/UImrau29cu8",
+      "timestamb": "09/20/2024, 09:49:13 AM",
+      "id": 4
+    },
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timestamb": "09/20/2024, 09:49:24 AM",
+      "id": 5
+    },
+    {
+      "caption": "title",
+      "link": "https://www.youtube.com/embed/aB18wP9LfsA",
+      "timestamb": "09/25/2024, 10:47:50 AM",
+      "id": 6
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryname": "trailer",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "title",
+          "url": "https://malayalam.cdn.zeenews.com/malayalam/sites/default/files/styles/zm_700x400/public/2024/06/01/271188-vaazha.jpg?itok=mjB3Ilr7",
+          "link": "https://www.youtube.com/embed/e1BHIY9p2WU"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryname": "ISL",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "title",
+          "url": "https://media.assettype.com/outlookindia/2024-05/107f313a-5e62-4d77-b742-de36d690e7b4/Bipin_Singh_scores_goal__Mumbai_City_win_ISL_2023_24_title__Mumbai_City_FC_Twitter.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0",
+          "link": "https://www.youtube.com/embed/aB18wP9LfsA"
+        },
+        {
+          "id": "12",
+          "caption": "title",
+          "url": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/01/136-48-2.jpg",
+          "link": "https://www.youtube.com/embed/xmy02EqjTlA"
+        }
+      ]
+    }
+  ]
+}
